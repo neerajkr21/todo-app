@@ -13,7 +13,7 @@ A modern and responsive To-Do application built with **React** and **Vite**. It 
 - 📋 View all tasks
 - 📱 Fully responsive design
 - ⚡ Fast performance powered by Vite
-- 💾 Persistent task storage *(if implemented using Local Storage)*
+- 💾 Persistent task storage 
 
 ---
 
@@ -90,7 +90,7 @@ http://localhost:5173
 - Edit existing tasks.
 - Mark tasks as completed.
 - Delete tasks that are no longer needed.
-- Your tasks will remain saved *(if Local Storage is implemented).*
+- Your tasks will remain saved 
 
 ---
 
