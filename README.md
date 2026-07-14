@@ -22,8 +22,8 @@ A modern and responsive To-Do application built with **React** and **Vite**. It 
 - **React**
 - **Vite**
 - **JavaScript (ES6+)**
-- **CSS3** *(or Tailwind CSS if you're using it)*
-- **Local Storage** *(if applicable)*
+- **TailwindCSS**
+- **Local Storage** 
 
 ---
 
